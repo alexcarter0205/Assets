@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+9140af6867bac44fe09cfcb1501d9c67049fbcbf refs/remotes/origin/duc
+e79fa00e6f4151f743f2eb50c965ec1c21db9748 refs/remotes/origin/duy-phan
+64a774aceb5996761af6124e8088df316c9491d5 refs/remotes/origin/master
+3b6aab35b15453558b853332ad7c3193c6f2e94e refs/remotes/origin/product
+64a774aceb5996761af6124e8088df316c9491d5 refs/tags/1.0
